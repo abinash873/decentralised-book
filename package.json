@@ -1,0 +1,12 @@
+{
+  "dependencies": {
+    "@openzeppelin/contracts": "^4.9.3",
+    "@truffle/contract": "^4.6.31",
+    "react": "^19.1.0",
+    "react-dom": "^19.1.0",
+    "web3": "^1.8.2"
+  },
+  "devDependencies": {
+    "@openzeppelin/test-helpers": "^0.5.16"
+  }
+}
